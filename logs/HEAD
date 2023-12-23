@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 15675e4fc954bf6e71efcef33859faf73744c830 marknjoroge <marknnjorogeh@gmail.com> 1680818767 +0300	commit (initial): first commit
+15675e4fc954bf6e71efcef33859faf73744c830 0000000000000000000000000000000000000000 marknjoroge <marknnjorogeh@gmail.com> 1680818768 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 15675e4fc954bf6e71efcef33859faf73744c830 marknjoroge <marknnjorogeh@gmail.com> 1680818768 +0300	Branch: renamed refs/heads/master to refs/heads/main
+15675e4fc954bf6e71efcef33859faf73744c830 15675e4fc954bf6e71efcef33859faf73744c830 marknjoroge <marknnjorogeh@gmail.com> 1680818810 +0300	checkout: moving from main to grid-to-bootstrap
+15675e4fc954bf6e71efcef33859faf73744c830 7062dc29dc0cbe1333822e2e8172bd2f887d8531 marknjoroge <marknnjorogeh@gmail.com> 1680822014 +0300	commit: working well so far
+7062dc29dc0cbe1333822e2e8172bd2f887d8531 171adf19b76a52dfde0214e3807f23dbd4dd6cb8 marknjoroge <marknnjorogeh@gmail.com> 1703353613 +0300	commit: first commit
+171adf19b76a52dfde0214e3807f23dbd4dd6cb8 0000000000000000000000000000000000000000 marknjoroge <marknnjorogeh@gmail.com> 1703353613 +0300	Branch: renamed refs/heads/grid-to-bootstrap to refs/heads/main
+0000000000000000000000000000000000000000 171adf19b76a52dfde0214e3807f23dbd4dd6cb8 marknjoroge <marknnjorogeh@gmail.com> 1703353613 +0300	Branch: renamed refs/heads/grid-to-bootstrap to refs/heads/main
